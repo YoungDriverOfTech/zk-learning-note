@@ -476,6 +476,7 @@ zookeeper集群中的节点有三种角色
   /usr/local/zookeeper/zkdata/zk2# echo 2 > myid
   /usr/local/zookeeper/zkdata/zk3# echo 3 > myid
   /usr/local/zookeeper/zkdata/zk4# echo 4 > myid
+  
   ~~~
 
 - 编写4个zoo.cfg
